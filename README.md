@@ -83,10 +83,9 @@ For more details see 🌐[website](https://samotee.netlify.app/).
 ####
 📫 How to reach me: ...
 
-<a href="https://medium.com/@tipsontee/" target="_blank"></a>💻
-<a href="https://www.linkedin.com/in/taiwosamuel-o/" target="_blank"><img src="https://raw.githubusercontent.com/tipson007/tipson007/master/contain/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/tipson007" target="_blank"><img src="https://raw.githubusercontent.com/tipson007/tipson007/master/contain/git.png" alt="GitHub" width="30"></a>
-<a href="https://samotee.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/tipson007/tipson007/master/contain/www.png" alt="Website" width="30"></a>
+[Medium](https://www.linkedin.com/in/taiwosamuel-o/))💻
+[Medium](https://github.com/tipson007)🚀
+[Medium](https://medium.com/@tipsontee/)Ⓜ
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tipson007&color=brightgreen" alt="tipson007" /> </p>
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=tipson007&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tipson007&theme=merko&layout=compact&hide_langs_below=1" /></p>
