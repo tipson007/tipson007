@@ -4,7 +4,9 @@
 <br/>
 
 - I'm a Platform Engineer with a strong business-oriented mindset and extensive expertise in Cloud, DevOps, and Site Reliability Engineering (SRE). My passion lies in making open-source technology accessible, leveraging your experience in areas such as cloud infrastructure, virtualization, networking, and Linux.
+  
 - With years of hands-on experience in technologies like OpenStack, AWS, and various DevOps tools, I thrive in challenging environments where I can contribute my technical skills effectively. My goal is continuous improvement, reflected in my commitment to recreating and redesigning projects across a wide range of technologies.
+  
 - My ideal role is one that offers both technical challenges and opportunities for personal growth, allowing me to further develop my skills while gaining valuable business knowledge. As a Platform Engineer, I excel in bridging the gap between technology and business objectives, driving innovation, and building community within the tech ecosystem
 
 
