@@ -40,7 +40,7 @@ For more details see [website](https://samotee.netlify.app/).
 | • Azure DevOps                 | • Qualys                             | • Terraform (IAC)                          |
 | • GitLab                       | • CodeQL Analysis                    | • Ansible                                  |
 | • Code Deploy                  | • snyk                               | • Pulumi                                   |
-| • Octopus                      | • Sqreen                             |                                            |
+| • Octopus                      | • Sqreen                             | • Terraform Cloud                          |
 | • Ansible                      |                                      |                                            |
 | • Spinnaker                    |                                      |                                            |
       
@@ -79,7 +79,7 @@ For more details see [website](https://samotee.netlify.app/).
 👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](kooldec@yahoo.co.uk)
 
 ####
-- 📫 How to reach me: ...
+📫 How to reach me: ...
 
 <a href="https://medium.com/@tipsontee/" target="_blank"><img src="https://raw.githubusercontent.com/tipson007/tipson007/master/contain/www.png" alt="Medium" width="30"></a>
 <a href="https://www.linkedin.com/in/taiwosamuel-o/" target="_blank"><img src="https://raw.githubusercontent.com/tipson007/tipson007/master/contain/in.png" alt="LinkedIn" width="30"></a>
