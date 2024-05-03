@@ -83,7 +83,7 @@ For more details see 🌐[website](https://samotee.netlify.app/).
 ####
 📫 How to reach me: ...
 
-<a href="https://medium.com/@tipsontee/" target="_blank"><img src="https://raw.githubusercontent.com/tipson007/tipson007/master/contain/www.png" alt="Medium" width="30"></a>
+<a href="https://medium.com/@tipsontee/" target="_blank"></a>💻
 <a href="https://www.linkedin.com/in/taiwosamuel-o/" target="_blank"><img src="https://raw.githubusercontent.com/tipson007/tipson007/master/contain/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/tipson007" target="_blank"><img src="https://raw.githubusercontent.com/tipson007/tipson007/master/contain/git.png" alt="GitHub" width="30"></a>
 <a href="https://samotee.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/tipson007/tipson007/master/contain/www.png" alt="Website" width="30"></a>
