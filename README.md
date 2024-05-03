@@ -8,7 +8,7 @@
 - My ideal role is one that offers both technical challenges and opportunities for personal growth, allowing me to further develop my skills while gaining valuable business knowledge. As a Platform Engineer, I excel in bridging the gap between technology and business objectives, driving innovation, and building community within the tech ecosystem
 
 
-For more details see [website](https://samotee.netlify.app/).
+For more details see 🌐[website](https://samotee.netlify.app/).
 
 # TECH STACK
   ###  Languages (I have been excelling in)
