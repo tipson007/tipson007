@@ -83,9 +83,9 @@ For more details see 🌐[website](https://samotee.netlify.app/).
 ####
 📫 How to reach me: ...
 
-[Medium](https://www.linkedin.com/in/taiwosamuel-o/))💻
-[Medium](https://github.com/tipson007)🚀
-[Medium](https://medium.com/@tipsontee/)Ⓜ
+[LinkedIn](https://www.linkedin.com/in/taiwosamuel-o/)) 💻
+[GitHub](https://github.com/tipson007) 🚀
+[Medium](https://medium.com/@tipsontee/) Ⓜ
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tipson007&color=brightgreen" alt="tipson007" /> </p>
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=tipson007&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tipson007&theme=merko&layout=compact&hide_langs_below=1" /></p>
