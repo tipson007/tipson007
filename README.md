@@ -85,9 +85,16 @@ For more details see 🌐[website](https://samotee.netlify.app/).
 ####
 📫 How to reach me: ...
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40" height="40"> [LinkedIn](https://www.linkedin.com/in/taiwosamuel-o/) 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30"> [GitHub](https://github.com/tipson007) 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Part%20Alternation%20Mark.png" alt="Part Alternation Mark" width="40" height="40" /> [Medium](https://medium.com/@tipsontee/) 
+<a href="https://www.linkedin.com/in/taiwosamuel-o/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tipson007/tipson007/master/gif/linkd.gif" alt="Part Alternation Mark" width="40" height="40" />
+</a>
+<a href="https://github.com/tipson007" target="_blank">
+    <img src="https://raw.githubusercontent.com/tipson007/tipson007/master/gif/gitnn.gif" alt="Part Alternation Mark" width="40" height="40" />
+</a>
+<a href="https://medium.com/@tipsontee/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tipson007/tipson007/master/gif/linkd.gif" alt="Part Alternation Mark" width="40" height="40" />
+</a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tipson007&color=brightgreen" alt="tipson007" /> </p>
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=tipson007&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tipson007&theme=merko&layout=compact&hide_langs_below=1" /></p>
