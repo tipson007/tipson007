@@ -1,6 +1,6 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="20px"> 💁🏻‍♂️👇 Check out my Git Hub Profile👇</h2>
 <br/>
-<img src="https://camo.githubusercontent.com/18936b3eb508935ef621cd07dbd231fa5e9ef1cd839fecd52e08d859a35f0ff9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966"></h2>
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"></h2>
 <br/>
 
 - I'm a Platform Engineer with a strong business-oriented mindset and extensive expertise in Cloud, DevOps, and Site Reliability Engineering (SRE). My passion lies in making open-source technology accessible, leveraging your experience in areas such as cloud infrastructure, virtualization, networking, and Linux.
