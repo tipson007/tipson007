@@ -1,4 +1,4 @@
-## Hello there! <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="20px"> 💁🏻‍♂️👇 Check out my Git Hub Profile👇</h2>
+## Hello there! <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="20px"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Person%20Medium-Dark%20Skin%20Tone%2C%20Curly%20Hair.png" alt="Person Medium-Dark Skin Tone, Curly Hair" width="25" height="25" />👇 Check out my Git Hub Profile👇</h2>
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"></h2>
 <br/>
