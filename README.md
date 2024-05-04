@@ -80,7 +80,11 @@ For more details see 🌐[website](https://samotee.netlify.app/).
 
 ### Support or Contact
 
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](kooldec@yahoo.co.uk)
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help! 
+
+<a href="mailto:kooldec@yahoo.co.uk" target="_blank">
+    <img src="https://raw.githubusercontent.com/tipson007/tipson007/master/gif/E-Mail.png" alt="Email" width="30" height="30" />
+</a>
 
 ####
 📫 How to reach me: ...
@@ -92,7 +96,7 @@ For more details see 🌐[website](https://samotee.netlify.app/).
     <img src="https://raw.githubusercontent.com/tipson007/tipson007/master/gif/gitnn.gif" alt="Part Alternation Mark" width="40" height="40" />
 </a>
 <a href="https://medium.com/@tipsontee/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tipson007/tipson007/master/gif/linkd.gif" alt="Part Alternation Mark" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/tipson007/tipson007/master/gif/Part Alternation Mark.png" alt="Part Alternation Mark" width="40" height="40" />
 </a>
 
 
